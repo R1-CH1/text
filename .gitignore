@@ -1,0 +1,17 @@
+# Visual Studio 임시 파일 및 캐시
+.vs/
+[Oo]bj/
+[Bb]in/
+
+# 사용자 특정 파일 및 사용자 설정
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 빌드 결과물 및 패키지
+[Ll]ogs/
+[Tt]emp/
+[Rr]estore.lock.json
+project.lock.json
+project.assets.json
