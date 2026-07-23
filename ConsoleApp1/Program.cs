@@ -715,7 +715,7 @@ namespace A029_StringFormat
 
             s = String.Format("오늘 날짜는 {0:d}, 시간은 {0:c2} 입니다.", DateTime.Now);
             Console.WriteLine(s);
-
+            Console.WriteLine(s);
             TimeSpan duration = new TimeSpan(1, 12, 23, 62);
             string output = String.Format("소요시간 : {0:c}", duration);
             Console.WriteLine(s);
